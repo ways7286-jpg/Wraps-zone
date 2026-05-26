@@ -1,0 +1,6 @@
+{
+  "name": "Wraps Zone",
+  "description": "Premium luxury restaurant website. Hyderabad's ultimate destination for fresh wraps, crispy broast, gourmet burgers, signature mojitos, and authentic Chinese specials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
